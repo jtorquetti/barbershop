@@ -12,6 +12,7 @@ import {
     Img,
     LinkBtn
  } from './InfoSection.elements'
+ 
 
 const InfoSection = ({
     primary,
