@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/homepage/static/js/main.acceb4b6.chunk.js",
-    "main.js.map": "/homepage/static/js/main.acceb4b6.chunk.js.map",
-    "runtime-main.js": "/homepage/static/js/runtime-main.161d6b15.js",
-    "runtime-main.js.map": "/homepage/static/js/runtime-main.161d6b15.js.map",
-    "static/js/2.5db61d5c.chunk.js": "/homepage/static/js/2.5db61d5c.chunk.js",
-    "static/js/2.5db61d5c.chunk.js.map": "/homepage/static/js/2.5db61d5c.chunk.js.map",
-    "index.html": "/homepage/index.html",
-    "static/js/2.5db61d5c.chunk.js.LICENSE.txt": "/homepage/static/js/2.5db61d5c.chunk.js.LICENSE.txt",
-    "static/media/aboutus1.jpg": "/homepage/static/media/aboutus1.1968c577.jpg",
-    "static/media/aboutus2.jpg": "/homepage/static/media/aboutus2.309fd908.jpg",
-    "static/media/aboutus3.jpg": "/homepage/static/media/aboutus3.7a61b318.jpg",
-    "static/media/aboutus4.png": "/homepage/static/media/aboutus4.f9fbbb11.png",
-    "static/media/img1.png": "/homepage/static/media/img1.49f95fb6.png",
-    "static/media/img2.jpeg": "/homepage/static/media/img2.f54937b5.jpeg",
-    "static/media/img3.jpg": "/homepage/static/media/img3.0f7453ec.jpg"
+    "main.js": "/barbershop/static/js/main.acceb4b6.chunk.js",
+    "main.js.map": "/barbershop/static/js/main.acceb4b6.chunk.js.map",
+    "runtime-main.js": "/barbershop/static/js/runtime-main.cbba3878.js",
+    "runtime-main.js.map": "/barbershop/static/js/runtime-main.cbba3878.js.map",
+    "static/js/2.a389238b.chunk.js": "/barbershop/static/js/2.a389238b.chunk.js",
+    "static/js/2.a389238b.chunk.js.map": "/barbershop/static/js/2.a389238b.chunk.js.map",
+    "index.html": "/barbershop/index.html",
+    "static/js/2.a389238b.chunk.js.LICENSE.txt": "/barbershop/static/js/2.a389238b.chunk.js.LICENSE.txt",
+    "static/media/aboutus1.jpg": "/barbershop/static/media/aboutus1.1968c577.jpg",
+    "static/media/aboutus2.jpg": "/barbershop/static/media/aboutus2.309fd908.jpg",
+    "static/media/aboutus3.jpg": "/barbershop/static/media/aboutus3.7a61b318.jpg",
+    "static/media/aboutus4.png": "/barbershop/static/media/aboutus4.f9fbbb11.png",
+    "static/media/img1.png": "/barbershop/static/media/img1.49f95fb6.png",
+    "static/media/img2.jpeg": "/barbershop/static/media/img2.f54937b5.jpeg",
+    "static/media/img3.jpg": "/barbershop/static/media/img3.0f7453ec.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.161d6b15.js",
-    "static/js/2.5db61d5c.chunk.js",
+    "static/js/runtime-main.cbba3878.js",
+    "static/js/2.a389238b.chunk.js",
     "static/js/main.acceb4b6.chunk.js"
   ]
 }
